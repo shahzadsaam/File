@@ -1,6 +1,3 @@
 Hewllooo
-<<<<<<< HEAD
 Hewlllllllooooooo
-=======
 HIIiiiiiiiii
->>>>>>> feb711ac48affadaf504f56f734d16ded3ec5445
